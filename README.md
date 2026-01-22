@@ -6,7 +6,7 @@ The project focuses on **clarity, accessibility, and explainability**, especiall
 
 ---
 
-## 🩺 Problem Statement
+## Problem Statement
 
 In India, many individuals struggle to understand:
 
@@ -23,7 +23,7 @@ Making the wrong healthcare coverage decision can lead to **serious financial st
 
 ---
 
-## 💡 What We Built
+## What We Built
 
 MedCover-SocioAI is a **web-based AI system** that helps users make sense of healthcare coverage options in a **non-promotional and explainable** way.
 
@@ -49,7 +49,7 @@ The goal is **not to sell insurance**, but to help users **understand their choi
 
 ---
 
-## 🤖 How Artificial Intelligence Is Used
+## How Artificial Intelligence Is Used
 
 AI is used to move beyond simple IF–ELSE rules and perform **contextual reasoning**.
 
@@ -70,7 +70,7 @@ This makes the system interactive, understandable, and user-friendly.
 
 ---
 
-## 🌍 Social Impact
+## Social Impact
 
 MedCover-SocioAI aims to:
 - Improve awareness of public healthcare schemes in India  
@@ -82,7 +82,7 @@ The project follows the principle of **AI for Social Impact**, prioritizing tran
 
 ---
 
-## ⚖️ Ethics & Limitations
+## Ethics & Limitations
 
 - This tool does **not provide medical or legal advice**  
 - It does **not replace official eligibility checks or professional consultation**  
@@ -93,12 +93,12 @@ MedCover-SocioAI is a **decision-support and awareness tool**, not an authority 
 
 ---
 
-## 🛠️ Built As Part Of
+## Built As Part Of
 
 This project was built by students as part of an **AI for Social Impact / Open Data hackathon**, focusing on responsible AI usage and explainable decision-making.
 
 ---
 
-## 📜 License
+## License
 
 This project is open-sourced under the **MIT License**.
