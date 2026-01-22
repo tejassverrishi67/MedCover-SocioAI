@@ -1,0 +1,5 @@
+{
+  "name": "MedCover Test",
+  "description": "A helpful tool that looks at your health and finances to suggest Indian insurance and government schemes that might fit you.",
+  "requestFramePermissions": []
+}
